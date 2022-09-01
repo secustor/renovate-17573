@@ -2,7 +2,7 @@
   "extends": ["config:base"],
   "hostRules": [
     {
-        "matchHost": "https://raw.githubusercontent.com/robgordon89/charts-test",
+        "matchHost": "https://raw.githubusercontent.com/robgordon89/charts-test-private",
         "hostType":"helm",
         "username": "username",
         "password": "password-here"

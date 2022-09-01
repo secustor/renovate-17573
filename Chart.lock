@@ -2,5 +2,8 @@ dependencies:
 - name: redis
   repository: https://raw.githubusercontent.com/robgordon89/charts-test/main/index
   version: 0.1.0
-digest: sha256:0b4d94cdd88def6682974008de5e11a9a108c3c1de1042cb72a42225c8d9f668
-generated: "2022-09-01T14:15:16.057106+01:00"
+- name: redis
+  repository: https://raw.githubusercontent.com/robgordon89/charts-test-private/main/index
+  version: 0.2.0
+digest: sha256:b33391febbeca44cd3b9154afaec7059e406a97c3c8a028e9c770309438b4264
+generated: "2022-09-01T14:41:41.556352+01:00"
