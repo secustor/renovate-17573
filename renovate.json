@@ -1,0 +1,14 @@
+{
+  "extends": ["config:base"],
+  "hostRules": [
+    {
+        "matchHost": "https://raw.githubusercontent.com/mailergroup/charts",
+        "hostType":"helm",
+        "username": "username",
+        "encrypted" :
+        {
+            "password": "password-here"
+        }
+    }
+  ],
+}
