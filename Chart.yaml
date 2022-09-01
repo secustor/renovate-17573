@@ -1,0 +1,11 @@
+apiVersion: v2
+name: renovate-test
+description: A Helm chart for renovate-test
+type: application
+version: 0.0.1
+appVersion: 0.0.1
+
+dependencies:
+  - name: redis
+    version: 0.1.0
+    repository: "https://raw.githubusercontent.com/robgordon89/charts-test/main/index"
