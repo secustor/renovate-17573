@@ -5,10 +5,7 @@
         "matchHost": "https://raw.githubusercontent.com/robgordon89/charts-test",
         "hostType":"helm",
         "username": "username",
-        "encrypted" :
-        {
-            "password": "password-here"
-        }
+        "password": "password-here"
     }
   ]
 }
