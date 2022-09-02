@@ -7,5 +7,5 @@ appVersion: 0.0.1
 
 dependencies:
   - name: redis
-    version: 0.1.0
+    version: 0.3.0
     repository: "https://raw.githubusercontent.com/robgordon89/charts-test/main/index"
